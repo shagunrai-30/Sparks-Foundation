@@ -8,7 +8,7 @@
     </head>
     <title>THE TSF BANK</title>
 
-    <body>
+    <body bgcolor="beige">
         <ul>
             <li><img src="imgs/tsf.png" id="logo"></li>
             <li><a href="index.php">Home</a></li>
